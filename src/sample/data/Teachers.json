@@ -1,0 +1,404 @@
+{
+    "Лист1": [
+        {
+            "TeacherId": "301",
+            "LastName": "Романова",
+            "FirstName": "Вероника",
+            "SecondName": "Марковна",
+            "Chair": "Автомобилей и автомобильного хозяйства",
+            "Position": "Профессор"
+        },
+        {
+            "TeacherId": "302",
+            "LastName": "Иванов",
+            "FirstName": "Кирилл",
+            "SecondName": "Тимурович",
+            "Chair": "Автомобилей и автомобильного хозяйства",
+            "Position": "Старший Преподаватель"
+        },
+        {
+            "TeacherId": "303",
+            "LastName": "Степанов",
+            "FirstName": "Артём",
+            "SecondName": "Александрович",
+            "Chair": "Автомобилей и автомобильного хозяйства",
+            "Position": "Старший Преподаватель"
+        },
+        {
+            "TeacherId": "304",
+            "LastName": "Гуляев",
+            "FirstName": "Матвей",
+            "SecondName": "Александрович",
+            "Chair": "Автомобилей и автомобильного хозяйства",
+            "Position": "Преподаватель"
+        },
+        {
+            "TeacherId": "305",
+            "LastName": "Дементьев",
+            "FirstName": "Михаил",
+            "SecondName": "Кириллович",
+            "Chair": "Автомобилей и автомобильного хозяйства",
+            "Position": "Доцент"
+        },
+        {
+            "TeacherId": "306",
+            "LastName": "Панкова",
+            "FirstName": "Ксения",
+            "SecondName": "Ивановна",
+            "Chair": "Автомобилей и автомобильного хозяйства",
+            "Position": "Преподаватель"
+        },
+        {
+            "TeacherId": "307",
+            "LastName": "Головина",
+            "FirstName": "Анна",
+            "SecondName": "Максимовна",
+            "Chair": "Автомобилей и автомобильного хозяйства",
+            "Position": "Старший Преподаватель"
+        },
+        {
+            "TeacherId": "308",
+            "LastName": "Львов",
+            "FirstName": "Юрий",
+            "SecondName": "Дмитриевич",
+            "Chair": "Автомобилей и автомобильного хозяйства",
+            "Position": "Старший Преподаватель"
+        },
+        {
+            "TeacherId": "309",
+            "LastName": "Григорьев",
+            "FirstName": "Александр",
+            "SecondName": "Даниилович",
+            "Chair": "Автомобилей и автомобильного хозяйства",
+            "Position": "Доцент"
+        },
+        {
+            "TeacherId": "310",
+            "LastName": "Лаврова",
+            "FirstName": "Евгения",
+            "SecondName": "Матвеевна",
+            "Chair": "Автомобилей и автомобильного хозяйства",
+            "Position": "Профессор"
+        },
+        {
+            "TeacherId": "311",
+            "LastName": "Назаров",
+            "FirstName": "Георгий",
+            "SecondName": "Никитич",
+            "Chair": "Вычислительной техники",
+            "Position": "Старший Преподаватель"
+        },
+        {
+            "TeacherId": "312",
+            "LastName": "Дружинин",
+            "FirstName": "Андрей",
+            "SecondName": "Маркович",
+            "Chair": "Вычислительной техники",
+            "Position": "Доцент"
+        },
+        {
+            "TeacherId": "313",
+            "LastName": "Чернышев",
+            "FirstName": "Даниил",
+            "SecondName": "Миронович",
+            "Chair": "Вычислительной техники",
+            "Position": "Старший Преподаватель"
+        },
+        {
+            "TeacherId": "314",
+            "LastName": "Кузнецова",
+            "FirstName": "Виктория",
+            "SecondName": "Фёдоровна",
+            "Chair": "Вычислительной техники",
+            "Position": "Старший Преподаватель"
+        },
+        {
+            "TeacherId": "315",
+            "LastName": "Чернышев",
+            "FirstName": "Николай",
+            "SecondName": "Игоревич",
+            "Chair": "Вычислительной техники",
+            "Position": "Преподаватель"
+        },
+        {
+            "TeacherId": "316",
+            "LastName": "Ковалева",
+            "FirstName": "Елизавета",
+            "SecondName": "Никитична",
+            "Chair": "Вычислительной техники",
+            "Position": "Старший Преподаватель"
+        },
+        {
+            "TeacherId": "317",
+            "LastName": "Ермакова",
+            "FirstName": "Кристина",
+            "SecondName": "Александровна",
+            "Chair": "Вычислительной техники",
+            "Position": "Доцент"
+        },
+        {
+            "TeacherId": "318",
+            "LastName": "Давыдова",
+            "FirstName": "Мия",
+            "SecondName": "Дмитриевна",
+            "Chair": "Вычислительной техники",
+            "Position": "Профессор"
+        },
+        {
+            "TeacherId": "319",
+            "LastName": "Семенова",
+            "FirstName": "Мария",
+            "SecondName": "Александровна",
+            "Chair": "Вычислительной техники",
+            "Position": "Профессор"
+        },
+        {
+            "TeacherId": "320",
+            "LastName": "Максимов",
+            "FirstName": "Николай",
+            "SecondName": "Фёдорович",
+            "Chair": "Вычислительной техники",
+            "Position": "Доцент"
+        },
+        {
+            "TeacherId": "321",
+            "LastName": "Воробьев",
+            "FirstName": "Денис",
+            "SecondName": "Богданович",
+            "Chair": "Финансы и кредит",
+            "Position": "Преподаватель"
+        },
+        {
+            "TeacherId": "322",
+            "LastName": "Румянцев",
+            "FirstName": "Георгий",
+            "SecondName": "Тимурович",
+            "Chair": "Финансы и кредит",
+            "Position": "Преподаватель"
+        },
+        {
+            "TeacherId": "323",
+            "LastName": "Кулешов",
+            "FirstName": "Дмитрий",
+            "SecondName": "Александрович",
+            "Chair": "Финансы и кредит",
+            "Position": "Преподаватель"
+        },
+        {
+            "TeacherId": "324",
+            "LastName": "Васильева",
+            "FirstName": "Мария",
+            "SecondName": "Тимуровна",
+            "Chair": "Финансы и кредит",
+            "Position": "Старший Преподаватель"
+        },
+        {
+            "TeacherId": "325",
+            "LastName": "Васильева",
+            "FirstName": "Алина",
+            "SecondName": "Кирилловна",
+            "Chair": "Финансы и кредит",
+            "Position": "Старший Преподаватель"
+        },
+        {
+            "TeacherId": "326",
+            "LastName": "Андреева",
+            "FirstName": "Сабина",
+            "SecondName": "Михайловна",
+            "Chair": "Финансы и кредит",
+            "Position": "Доцент"
+        },
+        {
+            "TeacherId": "327",
+            "LastName": "Абрамова",
+            "FirstName": "София",
+            "SecondName": "Данииловна",
+            "Chair": "Финансы и кредит",
+            "Position": "Профессор"
+        },
+        {
+            "TeacherId": "328",
+            "LastName": "Комарова",
+            "FirstName": "Маргарита",
+            "SecondName": "Евгеньевна",
+            "Chair": "Финансы и кредит",
+            "Position": "Преподаватель"
+        },
+        {
+            "TeacherId": "329",
+            "LastName": "Зверева",
+            "FirstName": "Варвара",
+            "SecondName": "Ивановна",
+            "Chair": "Финансы и кредит",
+            "Position": "Преподаватель"
+        },
+        {
+            "TeacherId": "330",
+            "LastName": "Соболева",
+            "FirstName": "Арина",
+            "SecondName": "Павловна",
+            "Chair": "Финансы и кредит",
+            "Position": "Старший Преподаватель"
+        },
+        {
+            "TeacherId": "331",
+            "LastName": "Черных",
+            "FirstName": "Роберт",
+            "SecondName": "Артёмович",
+            "Chair": "Гражданского права",
+            "Position": "Преподаватель"
+        },
+        {
+            "TeacherId": "332",
+            "LastName": "Лобанов",
+            "FirstName": "Иван",
+            "SecondName": "Олегович",
+            "Chair": "Гражданского права",
+            "Position": "Преподаватель"
+        },
+        {
+            "TeacherId": "333",
+            "LastName": "Ермаков",
+            "FirstName": "Михаил",
+            "SecondName": "Александрович",
+            "Chair": "Гражданского права",
+            "Position": "Преподаватель"
+        },
+        {
+            "TeacherId": "334",
+            "LastName": "Королев",
+            "FirstName": "Александр",
+            "SecondName": "Никитич",
+            "Chair": "Гражданского права",
+            "Position": "Старший Преподаватель"
+        },
+        {
+            "TeacherId": "335",
+            "LastName": "Муравьева",
+            "FirstName": "Алиса",
+            "SecondName": "Богдановна",
+            "Chair": "Гражданского права",
+            "Position": "Преподаватель"
+        },
+        {
+            "TeacherId": "336",
+            "LastName": "Русакова",
+            "FirstName": "Арина",
+            "SecondName": "Артёмовна",
+            "Chair": "Гражданского права",
+            "Position": "Преподаватель"
+        },
+        {
+            "TeacherId": "337",
+            "LastName": "Белоусов",
+            "FirstName": "Ярослав",
+            "SecondName": "Фёдорович",
+            "Chair": "Гражданского права",
+            "Position": "Доцент"
+        },
+        {
+            "TeacherId": "338",
+            "LastName": "Трофимова",
+            "FirstName": "Амелия",
+            "SecondName": "Саввична",
+            "Chair": "Гражданского права",
+            "Position": "Профессор"
+        },
+        {
+            "TeacherId": "339",
+            "LastName": "Иванова",
+            "FirstName": "Марина",
+            "SecondName": "Максимовна",
+            "Chair": "Гражданского права",
+            "Position": "Старший Преподаватель"
+        },
+        {
+            "TeacherId": "340",
+            "LastName": "Филатов",
+            "FirstName": "Матвей",
+            "SecondName": "Романович",
+            "Chair": "Гражданского права",
+            "Position": "Преподаватель"
+        },
+        {
+            "TeacherId": "341",
+            "LastName": "Кочеткова",
+            "FirstName": "Анна",
+            "SecondName": "Артёмовна",
+            "Chair": "Механики, мехатроники и робототехники",
+            "Position": "Профессор"
+        },
+        {
+            "TeacherId": "342",
+            "LastName": "Ильин",
+            "FirstName": "Илья",
+            "SecondName": "Фёдорович",
+            "Chair": "Механики, мехатроники и робототехники",
+            "Position": "Профессор"
+        },
+        {
+            "TeacherId": "343",
+            "LastName": "Голубев",
+            "FirstName": "Юрий",
+            "SecondName": "Тимофеевич",
+            "Chair": "Механики, мехатроники и робототехники",
+            "Position": "Профессор"
+        },
+        {
+            "TeacherId": "344",
+            "LastName": "Петров",
+            "FirstName": "Богдан",
+            "SecondName": "Артёмович",
+            "Chair": "Механики, мехатроники и робототехники",
+            "Position": "Старший Преподаватель"
+        },
+        {
+            "TeacherId": "345",
+            "LastName": "Медведева",
+            "FirstName": "Ева",
+            "SecondName": "Алексеевна",
+            "Chair": "Механики, мехатроники и робототехники",
+            "Position": "Старший Преподаватель"
+        },
+        {
+            "TeacherId": "346",
+            "LastName": "Алексеева",
+            "FirstName": "Аделина",
+            "SecondName": "Кирилловна",
+            "Chair": "Механики, мехатроники и робототехники",
+            "Position": "Старший Преподаватель"
+        },
+        {
+            "TeacherId": "347",
+            "LastName": "Петровский",
+            "FirstName": "Матвей",
+            "SecondName": "Яромирович",
+            "Chair": "Механики, мехатроники и робототехники",
+            "Position": "Доцент"
+        },
+        {
+            "TeacherId": "348",
+            "LastName": "Мартынов",
+            "FirstName": "Иван",
+            "SecondName": "Миронович",
+            "Chair": "Механики, мехатроники и робототехники",
+            "Position": "Профессор"
+        },
+        {
+            "TeacherId": "349",
+            "LastName": "Бобров",
+            "FirstName": "Матвей",
+            "SecondName": "Макарович",
+            "Chair": "Механики, мехатроники и робототехники",
+            "Position": "Старший Преподаватель"
+        },
+        {
+            "TeacherId": "350",
+            "LastName": "Ковалева",
+            "FirstName": "Марьям",
+            "SecondName": "Артёмовна",
+            "Chair": "Механики, мехатроники и робототехники",
+            "Position": "Старший Преподаватель"
+        }
+    ]
+}

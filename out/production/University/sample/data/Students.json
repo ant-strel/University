@@ -1,0 +1,904 @@
+{
+    "Лист1": [
+        {
+            "StudentId": "100",
+            "LastName": "Красильников",
+            "FirstName": "Адриан",
+            "SecondName": "Артемович",
+            "IdGroup": "1",
+            "Speciality": "Автомобилей и автомобильного хозяйства",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "101",
+            "LastName": "Игнатьев",
+            "FirstName": "Герасим",
+            "SecondName": "Арсеньевич",
+            "IdGroup": "1",
+            "Speciality": "Автомобилей и автомобильного хозяйства",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "102",
+            "LastName": "Гаврилов",
+            "FirstName": "Петр",
+            "SecondName": "Викторович",
+            "IdGroup": "1",
+            "Speciality": "Автомобилей и автомобильного хозяйства",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "103",
+            "LastName": "Матвеев",
+            "FirstName": "Адам",
+            "SecondName": "Оскарович",
+            "IdGroup": "1",
+            "Speciality": "Автомобилей и автомобильного хозяйства",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "104",
+            "LastName": "Лихачёв",
+            "FirstName": "Лавр",
+            "SecondName": "Геласьевич",
+            "IdGroup": "1",
+            "Speciality": "Автомобилей и автомобильного хозяйства",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "105",
+            "LastName": "Гришин",
+            "FirstName": "Клемент",
+            "SecondName": "Игоревич",
+            "IdGroup": "1",
+            "Speciality": "Автомобилей и автомобильного хозяйства",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "106",
+            "LastName": "Гордеев",
+            "FirstName": "Альфред",
+            "SecondName": "Дмитрьевич",
+            "IdGroup": "1",
+            "Speciality": "Автомобилей и автомобильного хозяйства",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "107",
+            "LastName": "Потапов",
+            "FirstName": "Болеслав",
+            "SecondName": "Валерьянович",
+            "IdGroup": "1",
+            "Speciality": "Автомобилей и автомобильного хозяйства",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "108",
+            "LastName": "Красильников",
+            "FirstName": "Матвей",
+            "SecondName": "Егорович",
+            "IdGroup": "1",
+            "Speciality": "Автомобилей и автомобильного хозяйства",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "109",
+            "LastName": "Николаев",
+            "FirstName": "Иннокентий",
+            "SecondName": "Улебович",
+            "IdGroup": "1",
+            "Speciality": "Автомобилей и автомобильного хозяйства",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "110",
+            "LastName": "Гусева",
+            "FirstName": "Борислава",
+            "SecondName": "Вячеславовна",
+            "IdGroup": "1",
+            "Speciality": "Автомобилей и автомобильного хозяйства",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "111",
+            "LastName": "Макарова",
+            "FirstName": "Инга",
+            "SecondName": "Фроловна",
+            "IdGroup": "1",
+            "Speciality": "Автомобилей и автомобильного хозяйства",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "112",
+            "LastName": "Юдина",
+            "FirstName": "Любовь",
+            "SecondName": "Олеговна",
+            "IdGroup": "1",
+            "Speciality": "Автомобилей и автомобильного хозяйства",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "113",
+            "LastName": "Белова",
+            "FirstName": "Нонна",
+            "SecondName": "Федосеевна",
+            "IdGroup": "1",
+            "Speciality": "Автомобилей и автомобильного хозяйства",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "114",
+            "LastName": "Турова",
+            "FirstName": "Элеонора",
+            "SecondName": "Рудольфовна",
+            "IdGroup": "1",
+            "Speciality": "Автомобилей и автомобильного хозяйства",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "115",
+            "LastName": "Морозова",
+            "FirstName": "Христина",
+            "SecondName": "Мартыновна",
+            "IdGroup": "1",
+            "Speciality": "Автомобилей и автомобильного хозяйства",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "116",
+            "LastName": "Ефремова",
+            "FirstName": "Патрисия",
+            "SecondName": "Онисимовна",
+            "IdGroup": "1",
+            "Speciality": "Автомобилей и автомобильного хозяйства",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "117",
+            "LastName": "Корнилова",
+            "FirstName": "Аделия",
+            "SecondName": "Витальевна",
+            "IdGroup": "1",
+            "Speciality": "Автомобилей и автомобильного хозяйства",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "118",
+            "LastName": "Назарова",
+            "FirstName": "Гелана",
+            "SecondName": "Лукьяновна",
+            "IdGroup": "1",
+            "Speciality": "Автомобилей и автомобильного хозяйства",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "119",
+            "LastName": "Прохорова",
+            "FirstName": "Агнесса",
+            "SecondName": "Святославовна",
+            "IdGroup": "1",
+            "Speciality": "Автомобилей и автомобильного хозяйства",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "120",
+            "LastName": "Стрелков",
+            "FirstName": "Адриан",
+            "SecondName": "Альвианович",
+            "IdGroup": "2",
+            "Speciality": "Вычислительной техники",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "121",
+            "LastName": "Лукин",
+            "FirstName": "Эрик",
+            "SecondName": "Артёмович",
+            "IdGroup": "2",
+            "Speciality": "Вычислительной техники",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "122",
+            "LastName": "Кудряшов",
+            "FirstName": "Даниил",
+            "SecondName": "Платонович",
+            "IdGroup": "2",
+            "Speciality": "Вычислительной техники",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "123",
+            "LastName": "Власов",
+            "FirstName": "Нисон",
+            "SecondName": "Агафонович",
+            "IdGroup": "2",
+            "Speciality": "Вычислительной техники",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "124",
+            "LastName": "Пестов",
+            "FirstName": "Денис",
+            "SecondName": "Владиславович",
+            "IdGroup": "2",
+            "Speciality": "Вычислительной техники",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "125",
+            "LastName": "Молчанов",
+            "FirstName": "Остап",
+            "SecondName": "Артемович",
+            "IdGroup": "2",
+            "Speciality": "Вычислительной техники",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "126",
+            "LastName": "Панов",
+            "FirstName": "Рубен",
+            "SecondName": "Наумович",
+            "IdGroup": "2",
+            "Speciality": "Вычислительной техники",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "127",
+            "LastName": "Яковлев",
+            "FirstName": "Ефрем",
+            "SecondName": "Глебович",
+            "IdGroup": "2",
+            "Speciality": "Вычислительной техники",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "128",
+            "LastName": "Мишин",
+            "FirstName": "Глеб",
+            "SecondName": "Наумович",
+            "IdGroup": "2",
+            "Speciality": "Вычислительной техники",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "129",
+            "LastName": "Щукин",
+            "FirstName": "Кассиан",
+            "SecondName": "Евсеевич",
+            "IdGroup": "2",
+            "Speciality": "Вычислительной техники",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "130",
+            "LastName": "Гордеева",
+            "FirstName": "Диша",
+            "SecondName": "Кимовна",
+            "IdGroup": "2",
+            "Speciality": "Вычислительной техники",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "131",
+            "LastName": "Веселова",
+            "FirstName": "Мария",
+            "SecondName": "Якуновна",
+            "IdGroup": "2",
+            "Speciality": "Вычислительной техники",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "132",
+            "LastName": "Суворова",
+            "FirstName": "Амелия",
+            "SecondName": "Евгеньевна",
+            "IdGroup": "2",
+            "Speciality": "Вычислительной техники",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "133",
+            "LastName": "Аксёнова",
+            "FirstName": "Элеонора",
+            "SecondName": "Германновна",
+            "IdGroup": "2",
+            "Speciality": "Вычислительной техники",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "134",
+            "LastName": "Алексеева",
+            "FirstName": "Радослава",
+            "SecondName": "Валерьяновна",
+            "IdGroup": "2",
+            "Speciality": "Вычислительной техники",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "135",
+            "LastName": "Щукина",
+            "FirstName": "Юнона",
+            "SecondName": "Германновна",
+            "IdGroup": "2",
+            "Speciality": "Вычислительной техники",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "136",
+            "LastName": "Сафонова",
+            "FirstName": "Данута",
+            "SecondName": "Игнатьевна",
+            "IdGroup": "2",
+            "Speciality": "Вычислительной техники",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "137",
+            "LastName": "Белякова",
+            "FirstName": "Альбина",
+            "SecondName": "Рудольфовна",
+            "IdGroup": "2",
+            "Speciality": "Вычислительной техники",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "138",
+            "LastName": "Гурьева",
+            "FirstName": "Санта",
+            "SecondName": "Максимовна",
+            "IdGroup": "2",
+            "Speciality": "Вычислительной техники",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "139",
+            "LastName": "Панова",
+            "FirstName": "Романа",
+            "SecondName": "Тарасовна",
+            "IdGroup": "2",
+            "Speciality": "Вычислительной техники",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "140",
+            "LastName": "Белов",
+            "FirstName": "Август",
+            "SecondName": "Яковович",
+            "IdGroup": "3",
+            "Speciality": "Финансов и кредита",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "141",
+            "LastName": "Котов",
+            "FirstName": "Август",
+            "SecondName": "Агафонович",
+            "IdGroup": "3",
+            "Speciality": "Финансов и кредита",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "142",
+            "LastName": "Кириллов",
+            "FirstName": "Максим",
+            "SecondName": "Альвианович",
+            "IdGroup": "3",
+            "Speciality": "Финансов и кредита",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "143",
+            "LastName": "Тетерин",
+            "FirstName": "Глеб",
+            "SecondName": "Авксентьевич",
+            "IdGroup": "3",
+            "Speciality": "Финансов и кредита",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "144",
+            "LastName": "Туров",
+            "FirstName": "Зиновий",
+            "SecondName": "Адольфович",
+            "IdGroup": "3",
+            "Speciality": "Финансов и кредита",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "145",
+            "LastName": "Петров",
+            "FirstName": "Феликс",
+            "SecondName": "Евгеньевич",
+            "IdGroup": "3",
+            "Speciality": "Финансов и кредита",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "146",
+            "LastName": "Назаров",
+            "FirstName": "Устин",
+            "SecondName": "Георгьевич",
+            "IdGroup": "3",
+            "Speciality": "Финансов и кредита",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "147",
+            "LastName": "Буров",
+            "FirstName": "Мартин",
+            "SecondName": "Наумович",
+            "IdGroup": "3",
+            "Speciality": "Финансов и кредита",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "148",
+            "LastName": "Николаев",
+            "FirstName": "Парамон",
+            "SecondName": "Романович",
+            "IdGroup": "3",
+            "Speciality": "Финансов и кредита",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "149",
+            "LastName": "Лихачёв",
+            "FirstName": "Михаил",
+            "SecondName": "Викторович",
+            "IdGroup": "3",
+            "Speciality": "Финансов и кредита",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "150",
+            "LastName": "Русакова",
+            "FirstName": "Даниэла",
+            "SecondName": "Прокловна",
+            "IdGroup": "3",
+            "Speciality": "Финансов и кредита",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "151",
+            "LastName": "Горбачёва",
+            "FirstName": "Дана",
+            "SecondName": "Михаиловна",
+            "IdGroup": "3",
+            "Speciality": "Финансов и кредита",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "152",
+            "LastName": "Самсонова",
+            "FirstName": "Рая",
+            "SecondName": "Онисимовна",
+            "IdGroup": "3",
+            "Speciality": "Финансов и кредита",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "153",
+            "LastName": "Сысоева",
+            "FirstName": "Элеонора",
+            "SecondName": "Михайловна",
+            "IdGroup": "3",
+            "Speciality": "Финансов и кредита",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "154",
+            "LastName": "Федосеева",
+            "FirstName": "Динара",
+            "SecondName": "Александровна",
+            "IdGroup": "3",
+            "Speciality": "Финансов и кредита",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "155",
+            "LastName": "Степанова",
+            "FirstName": "Моника",
+            "SecondName": "Агафоновна",
+            "IdGroup": "3",
+            "Speciality": "Финансов и кредита",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "156",
+            "LastName": "Петухова",
+            "FirstName": "Верона",
+            "SecondName": "Вениаминовна",
+            "IdGroup": "3",
+            "Speciality": "Финансов и кредита",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "157",
+            "LastName": "Дорофеева",
+            "FirstName": "Фанни",
+            "SecondName": "Ярославовна",
+            "IdGroup": "3",
+            "Speciality": "Финансов и кредита",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "158",
+            "LastName": "Карпова",
+            "FirstName": "Роза",
+            "SecondName": "Федосеевна",
+            "IdGroup": "3",
+            "Speciality": "Финансов и кредита",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "159",
+            "LastName": "Лебедева",
+            "FirstName": "Триана",
+            "SecondName": "Георгьевна",
+            "IdGroup": "3",
+            "Speciality": "Финансов и кредита",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "160",
+            "LastName": "Мартынов",
+            "FirstName": "Мартын",
+            "SecondName": "Дамирович",
+            "IdGroup": "4",
+            "Speciality": "Гражданского права",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "161",
+            "LastName": "Константинов",
+            "FirstName": "Денис",
+            "SecondName": "Данилович",
+            "IdGroup": "4",
+            "Speciality": "Гражданского права",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "162",
+            "LastName": "Блохин",
+            "FirstName": "Нинель",
+            "SecondName": "Федотович",
+            "IdGroup": "4",
+            "Speciality": "Гражданского права",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "163",
+            "LastName": "Мышкин",
+            "FirstName": "Аввакуум",
+            "SecondName": "Тихонович",
+            "IdGroup": "4",
+            "Speciality": "Гражданского права",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "164",
+            "LastName": "Лебедев",
+            "FirstName": "Осип",
+            "SecondName": "Иосифович",
+            "IdGroup": "4",
+            "Speciality": "Гражданского права",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "165",
+            "LastName": "Одинцов",
+            "FirstName": "Кондрат",
+            "SecondName": "Всеволодович",
+            "IdGroup": "4",
+            "Speciality": "Гражданского права",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "166",
+            "LastName": "Орлов",
+            "FirstName": "Виссарион",
+            "SecondName": "Максимович",
+            "IdGroup": "4",
+            "Speciality": "Гражданского права",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "167",
+            "LastName": "Соколов",
+            "FirstName": "Ипполит",
+            "SecondName": "Всеволодович",
+            "IdGroup": "4",
+            "Speciality": "Гражданского права",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "168",
+            "LastName": "Шестаков",
+            "FirstName": "Клемент",
+            "SecondName": "Авдеевич",
+            "IdGroup": "4",
+            "Speciality": "Гражданского права",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "169",
+            "LastName": "Стрелков",
+            "FirstName": "Флор",
+            "SecondName": "Евсеевич",
+            "IdGroup": "4",
+            "Speciality": "Гражданского права",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "170",
+            "LastName": "Горшкова",
+            "FirstName": "Гелана",
+            "SecondName": "Лаврентьевна",
+            "IdGroup": "4",
+            "Speciality": "Гражданского права",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "171",
+            "LastName": "Назарова",
+            "FirstName": "Алира",
+            "SecondName": "Александровна",
+            "IdGroup": "4",
+            "Speciality": "Гражданского права",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "172",
+            "LastName": "Шарова",
+            "FirstName": "Эльвира",
+            "SecondName": "Ивановна",
+            "IdGroup": "4",
+            "Speciality": "Гражданского права",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "173",
+            "LastName": "Брагина",
+            "FirstName": "Айлин",
+            "SecondName": "Давидовна",
+            "IdGroup": "4",
+            "Speciality": "Гражданского права",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "174",
+            "LastName": "Яковлева",
+            "FirstName": "Инесса",
+            "SecondName": "Адольфовна",
+            "IdGroup": "4",
+            "Speciality": "Гражданского права",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "175",
+            "LastName": "Александрова",
+            "FirstName": "Дарина",
+            "SecondName": "Ярославовна",
+            "IdGroup": "4",
+            "Speciality": "Гражданского права",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "176",
+            "LastName": "Федотова",
+            "FirstName": "Марианна",
+            "SecondName": "Серапионовна",
+            "IdGroup": "4",
+            "Speciality": "Гражданского права",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "177",
+            "LastName": "Меркушева",
+            "FirstName": "Лия",
+            "SecondName": "Сергеевна",
+            "IdGroup": "4",
+            "Speciality": "Гражданского права",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "178",
+            "LastName": "Ершова",
+            "FirstName": "Юфеза",
+            "SecondName": "Филатовна",
+            "IdGroup": "4",
+            "Speciality": "Гражданского права",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "179",
+            "LastName": "Медведева",
+            "FirstName": "Ольга",
+            "SecondName": "Аристарховна",
+            "IdGroup": "4",
+            "Speciality": "Гражданского права",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "180",
+            "LastName": "Кононов",
+            "FirstName": "Агафон",
+            "SecondName": "Лаврентьевич",
+            "IdGroup": "5",
+            "Speciality": "Механики, мехатроники и робототехники",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "181",
+            "LastName": "Бобров",
+            "FirstName": "Назарий",
+            "SecondName": "Натанович",
+            "IdGroup": "5",
+            "Speciality": "Механики, мехатроники и робототехники",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "182",
+            "LastName": "Агафонов",
+            "FirstName": "Эрик",
+            "SecondName": "Федосеевич",
+            "IdGroup": "5",
+            "Speciality": "Механики, мехатроники и робототехники",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "183",
+            "LastName": "Зайцев",
+            "FirstName": "Леонард",
+            "SecondName": "Демьянович",
+            "IdGroup": "5",
+            "Speciality": "Механики, мехатроники и робототехники",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "184",
+            "LastName": "Орехов",
+            "FirstName": "Леонид",
+            "SecondName": "Григорьевич",
+            "IdGroup": "5",
+            "Speciality": "Механики, мехатроники и робототехники",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "185",
+            "LastName": "Лихачёв",
+            "FirstName": "Варлам",
+            "SecondName": "Тимурович",
+            "IdGroup": "5",
+            "Speciality": "Механики, мехатроники и робототехники",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "186",
+            "LastName": "Носов",
+            "FirstName": "Абрам",
+            "SecondName": "Якунович",
+            "IdGroup": "5",
+            "Speciality": "Механики, мехатроники и робототехники",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "187",
+            "LastName": "Зайцев",
+            "FirstName": "Болеслав",
+            "SecondName": "Аристархович",
+            "IdGroup": "5",
+            "Speciality": "Механики, мехатроники и робототехники",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "188",
+            "LastName": "Цветков",
+            "FirstName": "Василий",
+            "SecondName": "Игнатьевич",
+            "IdGroup": "5",
+            "Speciality": "Механики, мехатроники и робототехники",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "189",
+            "LastName": "Рябов",
+            "FirstName": "Юлий",
+            "SecondName": "Никитевич",
+            "IdGroup": "5",
+            "Speciality": "Механики, мехатроники и робототехники",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "190",
+            "LastName": "Нестерова",
+            "FirstName": "Рамина",
+            "SecondName": "Митрофановна",
+            "IdGroup": "5",
+            "Speciality": "Механики, мехатроники и робототехники",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "191",
+            "LastName": "Осипова",
+            "FirstName": "Лана",
+            "SecondName": "Геннадиевна",
+            "IdGroup": "5",
+            "Speciality": "Механики, мехатроники и робототехники",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "192",
+            "LastName": "Никитина",
+            "FirstName": "Джема",
+            "SecondName": "Валерьевна",
+            "IdGroup": "5",
+            "Speciality": "Механики, мехатроники и робототехники",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "193",
+            "LastName": "Мухина",
+            "FirstName": "Гертруда",
+            "SecondName": "Григорьевна",
+            "IdGroup": "5",
+            "Speciality": "Механики, мехатроники и робототехники",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "194",
+            "LastName": "Семёнова",
+            "FirstName": "Джульетта",
+            "SecondName": "Филатовна",
+            "IdGroup": "5",
+            "Speciality": "Механики, мехатроники и робототехники",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "195",
+            "LastName": "Лихачёва",
+            "FirstName": "Нора",
+            "SecondName": "Антониновна",
+            "IdGroup": "5",
+            "Speciality": "Механики, мехатроники и робототехники",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "196",
+            "LastName": "Гурьева",
+            "FirstName": "Мария",
+            "SecondName": "Агафоновна",
+            "IdGroup": "5",
+            "Speciality": "Механики, мехатроники и робототехники",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "197",
+            "LastName": "Карпова",
+            "FirstName": "Анна",
+            "SecondName": "Демьяновна",
+            "IdGroup": "5",
+            "Speciality": "Механики, мехатроники и робототехники",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "198",
+            "LastName": "Самойлова",
+            "FirstName": "Сильва",
+            "SecondName": "Рудольфовна",
+            "IdGroup": "5",
+            "Speciality": "Механики, мехатроники и робототехники",
+            "Attestations": "[]"
+        },
+        {
+            "StudentId": "199",
+            "LastName": "Артемьева",
+            "FirstName": "Александрина",
+            "SecondName": "Онисимовна",
+            "IdGroup": "5",
+            "Speciality": "Механики, мехатроники и робототехники",
+            "Attestations": "[]"
+        }
+    ]
+}

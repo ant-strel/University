@@ -1,0 +1,304 @@
+{
+    "Лист1": [
+        {
+            "Speciality": "Автомобилей и автомобильного хозяйства",
+            "SubjectName": "Грузоведение",
+            "SubjectId": "50",
+            "SpecialityId": "11"
+        },
+        {
+            "Speciality": "Автомобилей и автомобильного хозяйства",
+            "SubjectName": "Грузовые перевозки",
+            "SubjectId": "51",
+            "SpecialityId": "11"
+        },
+        {
+            "Speciality": "Автомобилей и автомобильного хозяйства",
+            "SubjectName": "Документооборот и делопроизводство",
+            "SubjectId": "52",
+            "SpecialityId": "11"
+        },
+        {
+            "Speciality": "Автомобилей и автомобильного хозяйства",
+            "SubjectName": "Информационные технологии на транспорте",
+            "SubjectId": "53",
+            "SpecialityId": "11"
+        },
+        {
+            "Speciality": "Автомобилей и автомобильного хозяйства",
+            "SubjectName": "Климатические системы автомобилей/Тюнинг автомобилей на предприятиях автосервиса",
+            "SubjectId": "54",
+            "SpecialityId": "11"
+        },
+        {
+            "Speciality": "Автомобилей и автомобильного хозяйства",
+            "SubjectName": "Климатические системы автомобилей/Устройство,монтаж,техническое обслуживание и ремонт газобаллонного оборудования автомобилей",
+            "SubjectId": "55",
+            "SpecialityId": "11"
+        },
+        {
+            "Speciality": "Автомобилей и автомобильного хозяйства",
+            "SubjectName": "Компьютерная графика/Компьютерное моделирование",
+            "SubjectId": "56",
+            "SpecialityId": "11"
+        },
+        {
+            "Speciality": "Автомобилей и автомобильного хозяйства",
+            "SubjectName": "Компьютерные технологии в науке и производстве",
+            "SubjectId": "57",
+            "SpecialityId": "11"
+        },
+        {
+            "Speciality": "Автомобилей и автомобильного хозяйства",
+            "SubjectName": "Конструкция и основы расчета энергетических установок",
+            "SubjectId": "58",
+            "SpecialityId": "11"
+        },
+        {
+            "Speciality": "Автомобилей и автомобильного хозяйства",
+            "SubjectName": "Конструкция и эксплуатационные свойства транспортных и транспортно-технологических машин и оборудования",
+            "SubjectId": "59",
+            "SpecialityId": "11"
+        },
+        {
+            "Speciality": "Вычислительной техники",
+            "SubjectName": "Антенно-фидерные устройства систем цифровой обработки сигналов",
+            "SubjectId": "60",
+            "SpecialityId": "12"
+        },
+        {
+            "Speciality": "Вычислительной техники",
+            "SubjectName": "Базы данных",
+            "SubjectId": "61",
+            "SpecialityId": "12"
+        },
+        {
+            "Speciality": "Вычислительной техники",
+            "SubjectName": "Вычислительная техника и иинформационные технологии",
+            "SubjectId": "62",
+            "SpecialityId": "12"
+        },
+        {
+            "Speciality": "Вычислительной техники",
+            "SubjectName": "Вычислительная техника и сети в отрасли (автомобильное хозяйство)",
+            "SubjectId": "63",
+            "SpecialityId": "12"
+        },
+        {
+            "Speciality": "Вычислительной техники",
+            "SubjectName": "Вычислительные машины, системы и сети",
+            "SubjectId": "64",
+            "SpecialityId": "12"
+        },
+        {
+            "Speciality": "Вычислительной техники",
+            "SubjectName": "Вычислительные системы повышенной надежности",
+            "SubjectId": "65",
+            "SpecialityId": "12"
+        },
+        {
+            "Speciality": "Вычислительной техники",
+            "SubjectName": "Вычислительные системы, сети и телекоммуникации",
+            "SubjectId": "66",
+            "SpecialityId": "12"
+        },
+        {
+            "Speciality": "Вычислительной техники",
+            "SubjectName": "Защита информации",
+            "SubjectId": "67",
+            "SpecialityId": "12"
+        },
+        {
+            "Speciality": "Вычислительной техники",
+            "SubjectName": "Измерение физических параметров",
+            "SubjectId": "68",
+            "SpecialityId": "12"
+        },
+        {
+            "Speciality": "Вычислительной техники",
+            "SubjectName": "Инженерная геометрия и компьютерная графика",
+            "SubjectId": "69",
+            "SpecialityId": "12"
+        },
+        {
+            "Speciality": "Финансы и кредит",
+            "SubjectName": "Государственные и муниципальные финансы",
+            "SubjectId": "70",
+            "SpecialityId": "13"
+        },
+        {
+            "Speciality": "Финансы и кредит",
+            "SubjectName": "Деньги. Кредит. Банки",
+            "SubjectId": "71",
+            "SpecialityId": "13"
+        },
+        {
+            "Speciality": "Финансы и кредит",
+            "SubjectName": "Инвестиции",
+            "SubjectId": "72",
+            "SpecialityId": "13"
+        },
+        {
+            "Speciality": "Финансы и кредит",
+            "SubjectName": "Мировые финансы ",
+            "SubjectId": "73",
+            "SpecialityId": "13"
+        },
+        {
+            "Speciality": "Финансы и кредит",
+            "SubjectName": "Оценка бизнеса",
+            "SubjectId": "74",
+            "SpecialityId": "13"
+        },
+        {
+            "Speciality": "Финансы и кредит",
+            "SubjectName": "Рынок ценных бумаг",
+            "SubjectId": "75",
+            "SpecialityId": "13"
+        },
+        {
+            "Speciality": "Финансы и кредит",
+            "SubjectName": "Финансовая политика предприятия",
+            "SubjectId": "76",
+            "SpecialityId": "13"
+        },
+        {
+            "Speciality": "Финансы и кредит",
+            "SubjectName": "Финансовые рынки ",
+            "SubjectId": "77",
+            "SpecialityId": "13"
+        },
+        {
+            "Speciality": "Финансы и кредит",
+            "SubjectName": "Финансовый менеджмент",
+            "SubjectId": "78",
+            "SpecialityId": "13"
+        },
+        {
+            "Speciality": "Финансы и кредит",
+            "SubjectName": "Финансы ",
+            "SubjectId": "79",
+            "SpecialityId": "13"
+        },
+        {
+            "Speciality": "Гражданского права",
+            "SubjectName": "Гражданское право",
+            "SubjectId": "80",
+            "SpecialityId": "14"
+        },
+        {
+            "Speciality": "Гражданского права",
+            "SubjectName": "Жилищное право",
+            "SubjectId": "81",
+            "SpecialityId": "14"
+        },
+        {
+            "Speciality": "Гражданского права",
+            "SubjectName": "Международное частное право",
+            "SubjectId": "82",
+            "SpecialityId": "14"
+        },
+        {
+            "Speciality": "Гражданского права",
+            "SubjectName": "Римское право",
+            "SubjectId": "83",
+            "SpecialityId": "14"
+        },
+        {
+            "Speciality": "Гражданского права",
+            "SubjectName": "Семейное право",
+            "SubjectId": "84",
+            "SpecialityId": "14"
+        },
+        {
+            "Speciality": "Гражданского права",
+            "SubjectName": "Юридические лица",
+            "SubjectId": "85",
+            "SpecialityId": "14"
+        },
+        {
+            "Speciality": "Гражданского права",
+            "SubjectName": "Гражданско-правовые акты",
+            "SubjectId": "86",
+            "SpecialityId": "14"
+        },
+        {
+            "Speciality": "Гражданского права",
+            "SubjectName": "Предпринимательское право",
+            "SubjectId": "87",
+            "SpecialityId": "14"
+        },
+        {
+            "Speciality": "Гражданского права",
+            "SubjectName": "Законодательство о защите прав потребителей и практика его применения",
+            "SubjectId": "88",
+            "SpecialityId": "14"
+        },
+        {
+            "Speciality": "Гражданского права",
+            "SubjectName": "Актуальные проблемы гражданского права",
+            "SubjectId": "89",
+            "SpecialityId": "14"
+        },
+        {
+            "Speciality": "Механики, мехатроники и робототехники",
+            "SubjectName": "1. Технология разработки инноваций",
+            "SubjectId": "90",
+            "SpecialityId": "15"
+        },
+        {
+            "Speciality": "Механики, мехатроники и робототехники",
+            "SubjectName": "2. Технико-экономическое обоснование проектов",
+            "SubjectId": "91",
+            "SpecialityId": "15"
+        },
+        {
+            "Speciality": "Механики, мехатроники и робототехники",
+            "SubjectName": "3. Объектно-ориентированное программирование",
+            "SubjectId": "92",
+            "SpecialityId": "15"
+        },
+        {
+            "Speciality": "Механики, мехатроники и робототехники",
+            "SubjectName": "4. Электроника и микросхемотехника",
+            "SubjectId": "93",
+            "SpecialityId": "15"
+        },
+        {
+            "Speciality": "Механики, мехатроники и робототехники",
+            "SubjectName": "5. Введение в информационные системы",
+            "SubjectId": "94",
+            "SpecialityId": "15"
+        },
+        {
+            "Speciality": "Механики, мехатроники и робототехники",
+            "SubjectName": "6. Крос-платформенное программирование",
+            "SubjectId": "95",
+            "SpecialityId": "15"
+        },
+        {
+            "Speciality": "Механики, мехатроники и робототехники",
+            "SubjectName": "7. Языки программирования низкого уровня",
+            "SubjectId": "96",
+            "SpecialityId": "15"
+        },
+        {
+            "Speciality": "Механики, мехатроники и робототехники",
+            "SubjectName": "8. Основы моделирования информационных систем",
+            "SubjectId": "97",
+            "SpecialityId": "15"
+        },
+        {
+            "Speciality": "Механики, мехатроники и робототехники",
+            "SubjectName": "9. Информационные технологии",
+            "SubjectId": "98",
+            "SpecialityId": "15"
+        },
+        {
+            "Speciality": "Механики, мехатроники и робототехники",
+            "SubjectName": "10. Теория информационных процессов и систем",
+            "SubjectId": "99",
+            "SpecialityId": "15"
+        }
+    ]
+}

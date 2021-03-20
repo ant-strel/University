@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.controllers.DictionariesMenuControllers">
+    <children><GridPane layoutX="5.0">
+        <columnConstraints>
+            <ColumnConstraints hgrow="SOMETIMES" maxWidth="192.0" minWidth="10.0" prefWidth="191.0" />
+            <ColumnConstraints hgrow="SOMETIMES" maxWidth="248.0" minWidth="10.0" prefWidth="213.0" />
+            <ColumnConstraints hgrow="SOMETIMES" maxWidth="196.0" minWidth="10.0" prefWidth="187.0" />
+        </columnConstraints>
+        <rowConstraints>
+            <RowConstraints maxHeight="129.0" minHeight="10.0" prefHeight="50.0" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="129.0" minHeight="0.0" prefHeight="50.0" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="139.0" minHeight="0.0" prefHeight="50.0" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="179.0" minHeight="10.0" prefHeight="50.0" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="185.0" minHeight="10.0" prefHeight="50.0" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="302.0" minHeight="10.0" prefHeight="50.0" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="289.0" minHeight="10.0" prefHeight="50.0" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="289.0" minHeight="10.0" prefHeight="50.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+        <children>
+            <Label text="Справочники" GridPane.columnIndex="1" GridPane.halignment="CENTER" />
+            <Button fx:id="students" mnemonicParsing="false" onAction="#viewStudentList" prefWidth="200" text="Список студентов" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.rowIndex="1" />
+            <Button fx:id="teachers" mnemonicParsing="false" onAction="#viewTeacherList" prefWidth="200" text="Список преподавателей" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.rowIndex="2" />
+            <Button fx:id="subjects" mnemonicParsing="false" onAction="#viewSubjectList" prefWidth="200" text="Список дисциплин" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.rowIndex="3" />
+            <Button fx:id="specialities" mnemonicParsing="false" onAction="#viewSpecialityList" prefWidth="200" text="Список специальностей" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.rowIndex="4" />
+            <Button fx:id="attestations" mnemonicParsing="false" onAction="#viewAttestationList" prefWidth="200" text="Список аттестаций" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.rowIndex="5" />
+            <Button fx:id="mainMenu" mnemonicParsing="false" onAction="#viewMainMenu" prefWidth="200" text="В меню" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.rowIndex="7" />
+
+        </children>
+
+    </GridPane>
+    </children>
+
+
+</AnchorPane>

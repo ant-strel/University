@@ -1,0 +1,454 @@
+{
+    "Лист1": [
+        {
+            "Subject": "Грузоведение",
+            "Type": "Test",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "12/14/20",
+            "Teacher": "Романова Вероника Марковна",
+            "SpecialityId": "11"
+        },
+        {
+            "Subject": "Грузовые перевозки",
+            "Type": "Test",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "12/6/20",
+            "Teacher": "Иванов Кирилл Тимурович",
+            "SpecialityId": "11"
+        },
+        {
+            "Subject": "Документооборот и делопроизводство",
+            "Type": "Test",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "12/4/20",
+            "Teacher": "Степанов Артём Александрович",
+            "SpecialityId": "11"
+        },
+        {
+            "Subject": "Информационные технологии на транспорте",
+            "Type": "Exam",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "3/9/21",
+            "Teacher": "Гуляев Матвей Александрович",
+            "SpecialityId": "11"
+        },
+        {
+            "Subject": "Климатические системы автомобилей/Тюнинг автомобилей на предприятиях автосервиса",
+            "Type": "Exam",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "3/10/21",
+            "Teacher": "Дементьев Михаил Кириллович",
+            "SpecialityId": "11"
+        },
+        {
+            "Subject": "Климатические системы автомобилей/Устройство,монтаж,техническое обслуживание и ремонт газобаллонного оборудования автомобилей",
+            "Type": "Test",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "10/11/20",
+            "Teacher": "Панкова Ксения Ивановна",
+            "SpecialityId": "11"
+        },
+        {
+            "Subject": "Компьютерная графика/Компьютерное моделирование",
+            "Type": "Test",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "10/2/20",
+            "Teacher": "Головина Анна Максимовна",
+            "SpecialityId": "11"
+        },
+        {
+            "Subject": "Компьютерные технологии в науке и производстве",
+            "Type": "Exam",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "9/30/20",
+            "Teacher": "Львов Юрий Дмитриевич",
+            "SpecialityId": "11"
+        },
+        {
+            "Subject": "Конструкция и основы расчета энергетических установок",
+            "Type": "Test",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "6/11/21",
+            "Teacher": "Григорьев Александр Даниилович",
+            "SpecialityId": "11"
+        },
+        {
+            "Subject": "Конструкция и эксплуатационные свойства транспортных и транспортно-технологических машин и оборудования",
+            "Type": "Exam",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "3/10/21",
+            "Teacher": "Лаврова Евгения Матвеевна",
+            "SpecialityId": "11"
+        },
+        {
+            "Subject": "Антенно-фидерные устройства систем цифровой обработки сигналов",
+            "Type": "Test",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "9/4/20",
+            "Teacher": "Назаров Георгий Никитич",
+            "SpecialityId": "12"
+        },
+        {
+            "Subject": "Базы данных",
+            "Type": "Test",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "9/27/20",
+            "Teacher": "Дружинин Андрей Маркович",
+            "SpecialityId": "12"
+        },
+        {
+            "Subject": "Вычислительная техника и иинформационные технологии",
+            "Type": "Exam",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "9/22/20",
+            "Teacher": "Чернышев Даниил Миронович",
+            "SpecialityId": "12"
+        },
+        {
+            "Subject": "Вычислительная техника и сети в отрасли (автомобильное хозяйство)",
+            "Type": "Exam",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "3/21/21",
+            "Teacher": "Кузнецова Виктория Фёдоровна",
+            "SpecialityId": "12"
+        },
+        {
+            "Subject": "Вычислительные машины, системы и сети",
+            "Type": "Test",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "10/5/20",
+            "Teacher": "Чернышев Николай Игоревич",
+            "SpecialityId": "12"
+        },
+        {
+            "Subject": "Вычислительные системы повышенной надежности",
+            "Type": "Exam",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "12/10/20",
+            "Teacher": "Ковалева Елизавета Никитична",
+            "SpecialityId": "12"
+        },
+        {
+            "Subject": "Вычислительные системы, сети и телекоммуникации",
+            "Type": "Exam",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "4/19/21",
+            "Teacher": "Ермакова Кристина Александровна",
+            "SpecialityId": "12"
+        },
+        {
+            "Subject": "Защита информации",
+            "Type": "Test",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "9/29/20",
+            "Teacher": "Давыдова Мия Дмитриевна",
+            "SpecialityId": "12"
+        },
+        {
+            "Subject": "Измерение физических параметров",
+            "Type": "Test",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "11/3/20",
+            "Teacher": "Семенова Мария Александровна",
+            "SpecialityId": "12"
+        },
+        {
+            "Subject": "Инженерная геометрия и компьютерная графика",
+            "Type": "Exam",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "5/12/21",
+            "Teacher": "Максимов Николай Фёдорович",
+            "SpecialityId": "12"
+        },
+        {
+            "Subject": "Государственные и муниципальные финансы",
+            "Type": "Exam",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "3/17/21",
+            "Teacher": "Воробьев Денис Богданович",
+            "SpecialityId": "13"
+        },
+        {
+            "Subject": "Деньги. Кредит. Банки",
+            "Type": "Test",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "1/16/21",
+            "Teacher": "Румянцев Георгий Тимурович",
+            "SpecialityId": "13"
+        },
+        {
+            "Subject": "Инвестиции",
+            "Type": "Exam",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "2/11/21",
+            "Teacher": "Кулешов Дмитрий Александрович",
+            "SpecialityId": "13"
+        },
+        {
+            "Subject": "Мировые финансы ",
+            "Type": "Exam",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "6/2/21",
+            "Teacher": "Васильева Мария Тимуровна",
+            "SpecialityId": "13"
+        },
+        {
+            "Subject": "Оценка бизнеса",
+            "Type": "Test",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "11/15/20",
+            "Teacher": "Васильева Алина Кирилловна",
+            "SpecialityId": "13"
+        },
+        {
+            "Subject": "Рынок ценных бумаг",
+            "Type": "Exam",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "11/6/20",
+            "Teacher": "Андреева Сабина Михайловна",
+            "SpecialityId": "13"
+        },
+        {
+            "Subject": "Финансовая политика предприятия",
+            "Type": "Exam",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "11/11/20",
+            "Teacher": "Абрамова София Данииловна",
+            "SpecialityId": "13"
+        },
+        {
+            "Subject": "Финансовые рынки ",
+            "Type": "Test",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "9/3/20",
+            "Teacher": "Комарова Маргарита Евгеньевна",
+            "SpecialityId": "13"
+        },
+        {
+            "Subject": "Финансовый менеджмент",
+            "Type": "Test",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "3/19/21",
+            "Teacher": "Зверева Варвара Ивановна",
+            "SpecialityId": "13"
+        },
+        {
+            "Subject": "Финансы ",
+            "Type": "Exam",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "2/12/21",
+            "Teacher": "Соболева Арина Павловна",
+            "SpecialityId": "13"
+        },
+        {
+            "Subject": "Гражданское право",
+            "Type": "Test",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "6/8/21",
+            "Teacher": "Черных Роберт Артёмович",
+            "SpecialityId": "14"
+        },
+        {
+            "Subject": "Жилищное право",
+            "Type": "Exam",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "3/6/21",
+            "Teacher": "Лобанов Иван Олегович",
+            "SpecialityId": "14"
+        },
+        {
+            "Subject": "Международное частное право",
+            "Type": "Test",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "9/16/20",
+            "Teacher": "Ермаков Михаил Александрович",
+            "SpecialityId": "14"
+        },
+        {
+            "Subject": "Римское право",
+            "Type": "Exam",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "5/30/21",
+            "Teacher": "Королев Александр Никитич",
+            "SpecialityId": "14"
+        },
+        {
+            "Subject": "Семейное право",
+            "Type": "Exam",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "4/30/21",
+            "Teacher": "Муравьева Алиса Богдановна",
+            "SpecialityId": "14"
+        },
+        {
+            "Subject": "Юридические лица",
+            "Type": "Test",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "4/16/21",
+            "Teacher": "Русакова Арина Артёмовна",
+            "SpecialityId": "14"
+        },
+        {
+            "Subject": "Гражданско-правовые акты",
+            "Type": "Test",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "3/14/21",
+            "Teacher": "Белоусов Ярослав Фёдорович",
+            "SpecialityId": "14"
+        },
+        {
+            "Subject": "Предпринимательское право",
+            "Type": "Test",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "6/25/21",
+            "Teacher": "Трофимова Амелия Саввична",
+            "SpecialityId": "14"
+        },
+        {
+            "Subject": "Законодательство о защите прав потребителей и практика его применения",
+            "Type": "Test",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "5/19/21",
+            "Teacher": "Иванова Марина Максимовна",
+            "SpecialityId": "14"
+        },
+        {
+            "Subject": "Актуальные проблемы гражданского права",
+            "Type": "Exam",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "5/13/21",
+            "Teacher": "Филатов Матвей Романович",
+            "SpecialityId": "14"
+        },
+        {
+            "Subject": "Технология разработки инноваций",
+            "Type": "Test",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "6/17/21",
+            "Teacher": "Кочеткова Анна Артёмовна",
+            "SpecialityId": "15"
+        },
+        {
+            "Subject": "Технико-экономическое обоснование проектов",
+            "Type": "Exam",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "5/1/21",
+            "Teacher": "Ильин Илья Фёдорович",
+            "SpecialityId": "15"
+        },
+        {
+            "Subject": "Объектно-ориентированное программирование",
+            "Type": "Test",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "1/22/21",
+            "Teacher": "Голубев Юрий Тимофеевич",
+            "SpecialityId": "15"
+        },
+        {
+            "Subject": "Электроника и микросхемотехника",
+            "Type": "Exam",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "4/2/21",
+            "Teacher": "Петров Богдан Артёмович",
+            "SpecialityId": "15"
+        },
+        {
+            "Subject": "Введение в информационные системы",
+            "Type": "Test",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "3/5/21",
+            "Teacher": "Медведева Ева Алексеевна",
+            "SpecialityId": "15"
+        },
+        {
+            "Subject": "Крос-платформенное программирование",
+            "Type": "Test",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "2/14/21",
+            "Teacher": "Алексеева Аделина Кирилловна",
+            "SpecialityId": "15"
+        },
+        {
+            "Subject": "Языки программирования низкого уровня",
+            "Type": "Test",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "9/21/20",
+            "Teacher": "Петровский Матвей Яромирович",
+            "SpecialityId": "15"
+        },
+        {
+            "Subject": "Основы моделирования информационных систем",
+            "Type": "Exam",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "10/3/20",
+            "Teacher": "Мартынов Иван Миронович",
+            "SpecialityId": "15"
+        },
+        {
+            "Subject": "Информационные технологии",
+            "Type": "Exam",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "12/30/20",
+            "Teacher": "Бобров Матвей Макарович",
+            "SpecialityId": "15"
+        },
+        {
+            "Subject": "Теория информационных процессов и систем",
+            "Type": "Exam",
+            "Mark": "0",
+            "IsPassed": "False",
+            "Date": "1/28/21",
+            "Teacher": "Ковалева Марьям Артёмовна",
+            "SpecialityId": "15"
+        }
+    ]
+}

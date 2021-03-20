@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.controllers.dictionaries.AttestationListController">
+    <children>
+        <GridPane prefHeight="400.0" prefWidth="600.0">
+            <columnConstraints>
+                <ColumnConstraints hgrow="SOMETIMES" maxWidth="120.0" minWidth="0.0" prefWidth="0.0" />
+                <ColumnConstraints hgrow="SOMETIMES" maxWidth="576.0" minWidth="10.0" prefWidth="576.0" />
+                <ColumnConstraints hgrow="SOMETIMES" maxWidth="195.0" minWidth="0.0" prefWidth="0.0" />
+            </columnConstraints>
+            <rowConstraints>
+                <RowConstraints maxHeight="134.0" minHeight="10.0" prefHeight="20.0" vgrow="SOMETIMES" />
+                <RowConstraints maxHeight="175.0" minHeight="10.0" prefHeight="175.0" vgrow="SOMETIMES" />
+                <RowConstraints maxHeight="320.0" minHeight="10.0" prefHeight="203.0" vgrow="SOMETIMES" />
+                <RowConstraints maxHeight="133.0" minHeight="0.0" prefHeight="14.0" vgrow="SOMETIMES" />
+            </rowConstraints>
+            <children>
+                <TableView fx:id="tableAttestation" prefHeight="200.0" prefWidth="200.0" GridPane.columnIndex="1" GridPane.columnSpan="2" GridPane.rowIndex="2">
+                    <columns>
+                        <TableColumn fx:id="tabAttId" prefWidth="33.0" text="№" />
+                        <TableColumn fx:id="tabAttSubject" prefWidth="148.0" text="Предмет" />
+                        <TableColumn fx:id="tabAttType" prefWidth="70.0" text="Тип" />
+                        <TableColumn fx:id="tabAttDate" prefWidth="57.0" text="Дата" />
+                        <TableColumn fx:id="tabTeacher" prefWidth="140.0" text="Преподаватель" />
+                        <TableColumn fx:id="tabAttSpecId" prefWidth="128.0" resizable="false" text="№ Специальности" />
+
+                    </columns>
+                </TableView>
+                <GridPane GridPane.columnIndex="1" GridPane.rowIndex="1">
+                    <columnConstraints>
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                    </columnConstraints>
+                    <rowConstraints>
+                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                    </rowConstraints>
+                    <children>
+                        <Button fx:id="add" mnemonicParsing="false" onAction="#AddAttestation" text="Добавить" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.rowIndex="2" />
+                        <Button fx:id="edit" mnemonicParsing="false" onAction="#EditAttestation" text="Изменить" GridPane.columnIndex="3" GridPane.halignment="CENTER" GridPane.rowIndex="2" />
+                        <Button fx:id="del" mnemonicParsing="false" onAction="#DelAttestation" text="Удалить" GridPane.columnIndex="2" GridPane.halignment="CENTER" GridPane.rowIndex="2" />
+                        <Button fx:id="menu" mnemonicParsing="false" onAction="#Menu" text="В меню" GridPane.columnIndex="0" GridPane.halignment="CENTER" GridPane.rowIndex="2" />
+                        <Button fx:id="save" mnemonicParsing="false" onAction="#SaveChanges" text="Сохранить" visible="false" GridPane.columnIndex="4" GridPane.halignment="CENTER" GridPane.rowIndex="2" />
+
+                        <Label fx:id="labelId" text="№" visible="false" GridPane.halignment="CENTER" />
+                        <Label text="Предмет" GridPane.columnIndex="1" GridPane.halignment="CENTER" />
+                        <Label text="Тип" GridPane.columnIndex="2" GridPane.halignment="CENTER" />
+                        <Label prefHeight="47.0" prefWidth="82.0" text="Дата" textAlignment="CENTER" wrapText="true" GridPane.columnIndex="3" GridPane.halignment="CENTER" />
+                        <Label text="Преподаватель" GridPane.columnIndex="4" GridPane.halignment="CENTER" />
+                        <Label text="№ Специальности" GridPane.columnIndex="5" GridPane.halignment="CENTER" />
+
+                        <TextField fx:id="attId" visible="false" GridPane.halignment="CENTER" GridPane.rowIndex="1" />
+                        <ComboBox fx:id="attSubject" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.rowIndex="1" />
+                        <ComboBox fx:id="attType" GridPane.columnIndex="2" GridPane.halignment="CENTER" GridPane.rowIndex="1" />
+                        <DatePicker fx:id="attDate" GridPane.columnIndex="3" GridPane.halignment="CENTER" GridPane.rowIndex="1" />
+                        <ComboBox fx:id="attTeacher" GridPane.columnIndex="4" GridPane.halignment="CENTER" GridPane.rowIndex="1" />
+                        <ComboBox fx:id="attSpecId" GridPane.columnIndex="5" GridPane.halignment="CENTER" GridPane.rowIndex="1" />
+
+                        <Label fx:id="statusMsg" alignment="CENTER" contentDisplay="CENTER" prefHeight="17.0" prefWidth="220.0" text=" " textFill="#ff0505" GridPane.columnIndex="5" GridPane.columnSpan="2" GridPane.halignment="CENTER" GridPane.rowIndex="2" />
+
+                    </children>
+                </GridPane>
+            </children>
+        </GridPane>
+    </children>
+
+</AnchorPane>

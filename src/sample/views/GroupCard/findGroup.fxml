@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.sample/javafx/11.0.1" xmlns:fx="http://javafx.sample/fxml/1" fx:controller="sample.controllers.groupCard.FindGroupController">
+    <children>
+        <GridPane prefHeight="400.0" prefWidth="600.0">
+            <columnConstraints>
+                <ColumnConstraints hgrow="SOMETIMES" maxWidth="120.0" minWidth="0.0" prefWidth="0.0" />
+                <ColumnConstraints hgrow="SOMETIMES" maxWidth="576.0" minWidth="10.0" prefWidth="576.0" />
+                <ColumnConstraints hgrow="SOMETIMES" maxWidth="195.0" minWidth="0.0" prefWidth="0.0" />
+            </columnConstraints>
+            <rowConstraints>
+                <RowConstraints maxHeight="134.0" minHeight="10.0" prefHeight="20.0" vgrow="SOMETIMES" />
+                <RowConstraints maxHeight="175.0" minHeight="10.0" prefHeight="76.0" vgrow="SOMETIMES" />
+                <RowConstraints maxHeight="325.0" minHeight="10.0" prefHeight="293.0" vgrow="SOMETIMES" />
+                <RowConstraints maxHeight="133.0" minHeight="0.0" prefHeight="14.0" vgrow="SOMETIMES" />
+            </rowConstraints>
+            <children>
+                <TableView fx:id="tableStudent" prefHeight="200.0" prefWidth="200.0" GridPane.columnIndex="1" GridPane.columnSpan="2" GridPane.rowIndex="2">
+                    <columns>
+                        <TableColumn fx:id="tabStudentId" prefWidth="96.0" text="№ группы" />
+                        <TableColumn fx:id="tabSpeciality" prefWidth="480.0" text="Специальность" />
+                    </columns>
+                </TableView>
+                <GridPane GridPane.columnIndex="1" GridPane.rowIndex="1">
+                    <columnConstraints>
+                        <ColumnConstraints hgrow="SOMETIMES" maxWidth="78.0" minWidth="10.0" prefWidth="76.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" maxWidth="104.0" minWidth="10.0" prefWidth="104.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" maxWidth="145.0" minWidth="10.0" prefWidth="145.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" maxWidth="153.0" minWidth="10.0" prefWidth="60.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" maxWidth="143.0" minWidth="10.0" prefWidth="59.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" maxWidth="145.0" minWidth="10.0" prefWidth="69.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" maxWidth="87.0" minWidth="10.0" prefWidth="70.0" />
+                    </columnConstraints>
+                    <rowConstraints>
+                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                    </rowConstraints>
+                    <children>
+                        <Label prefHeight="17.0" prefWidth="61.0" text="Найти по:" GridPane.halignment="CENTER" />
+                        <ComboBox fx:id="sampleboSearchFrom" prefWidth="150.0" GridPane.columnIndex="1" GridPane.halignment="CENTER"/>
+                        <Button fx:id="btnFindGroup" onAction="#BtnFindGroup" mnemonicParsing="false" text="Найти" GridPane.columnIndex="4" GridPane.rowIndex="1" GridPane.halignment="CENTER"/>
+                        <TextField fx:id="fieldSearch" GridPane.columnSpan="4" GridPane.rowIndex="1" />
+                        <Button fx:id="btnOpenGroup" onAction="#BtnOpenGroup" mnemonicParsing="false" text="Открыть" GridPane.columnIndex="5" GridPane.rowIndex="1" GridPane.halignment="CENTER"/>
+                        <Label fx:id="statusMsg" text="Status" GridPane.columnIndex="3" GridPane.columnSpan="2" GridPane.halignment="CENTER" />
+                        <Button fx:id="btnMainMenu" onAction="#BtnMainMenu" mnemonicParsing="false" text="В меню" GridPane.columnIndex="6" GridPane.rowIndex="1" GridPane.halignment="CENTER"/>
+                    </children>
+                </GridPane>
+            </children>
+        </GridPane>
+    </children>
+
+</AnchorPane>
